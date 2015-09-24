@@ -30,14 +30,12 @@
     self.navigationItem.rightBarButtonItem = barButtonItem;
 }
 - (void)setAbout:(NSString *)about {
-    _about = [NSString stringWithFormat:@"%@\n\n%@", about, @"Written by Techmaster Vietnam Ltd"];
+    _about = [NSString stringWithFormat:@"%@\n\n%@", about, @"Written by Khanh Nguyen Quoc"];
 }
 -(void) onAbout {
     UIAlertView* alert = [[UIAlertView alloc] initWithTitle:@"About" message:self.about delegate:self cancelButtonTitle:@"Thank" otherButtonTitles:nil, nil];
     [alert show];
 }
-
-
 #pragma mark - Table view data source
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView

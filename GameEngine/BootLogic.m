@@ -16,8 +16,8 @@
     MainScreen* mainScreen = [[MainScreen alloc] initWithStyle:UITableViewStyleGrouped];
     //--------- From this line, please customize your menu data -----------
     NSDictionary* basic = @{SECTION: @"Basic", MENU: @[
-                                    @{TITLE: @"Basic A", CLASS: @"BasicA"},
-                                    @{TITLE: @"Basic B", CLASS: @"BasicB"}
+                                    @{TITLE: @"SenceAndSprite", CLASS: @"SenceAndSprite"},
+                                    @{TITLE: @"Thanh pho va may", CLASS: @"CityAndCloud"}
                           ]};
     NSDictionary* intermediate = @{SECTION: @"Intermediate", MENU: @[
                                     @{TITLE: @"Inter B", CLASS: @"InterB"}
@@ -27,7 +27,7 @@
                              ]};
     
     mainScreen.menu = @[basic, intermediate, advanced];
-    mainScreen.title = @"Bootstrap App";
+    mainScreen.title = @"Menu";
     mainScreen.about = @"This is demo bootstrap demo app. It is collection of sample code of AVFoundation";
     //--------- End of customization -----------
     UINavigationController* nav = [[UINavigationController alloc] initWithRootViewController: mainScreen];

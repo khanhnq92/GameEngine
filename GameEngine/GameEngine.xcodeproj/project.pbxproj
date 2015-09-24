@@ -15,6 +15,31 @@
 		03106CD31BB396A60050EDEC /* BootLogic.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106CCD1BB396A60050EDEC /* BootLogic.m */; };
 		03106CD41BB396A60050EDEC /* ConsoleScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106CCF1BB396A60050EDEC /* ConsoleScreen.m */; };
 		03106CD51BB396A60050EDEC /* MainScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106CD11BB396A60050EDEC /* MainScreen.m */; };
+		03106CD91BB397D20050EDEC /* Sence.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106CD81BB397D20050EDEC /* Sence.m */; };
+		03106CDC1BB398270050EDEC /* Sprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106CDB1BB398270050EDEC /* Sprite.m */; };
+		03106CDF1BB39D070050EDEC /* soccer.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CDE1BB39D070050EDEC /* soccer.png */; };
+		03106CE21BB39D450050EDEC /* SenceAndSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106CE11BB39D450050EDEC /* SenceAndSprite.m */; };
+		03106CE51BB3CE7F0050EDEC /* CityAndCloud.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106CE41BB3CE7F0050EDEC /* CityAndCloud.m */; };
+		03106CEE1BB3CEAB0050EDEC /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CE61BB3CEAB0050EDEC /* 1.png */; };
+		03106CEF1BB3CEAB0050EDEC /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CE71BB3CEAB0050EDEC /* 2.png */; };
+		03106CF01BB3CEAB0050EDEC /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CE81BB3CEAB0050EDEC /* 3.png */; };
+		03106CF11BB3CEAB0050EDEC /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CE91BB3CEAB0050EDEC /* 4.png */; };
+		03106CF21BB3CEAB0050EDEC /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CEA1BB3CEAB0050EDEC /* 5.png */; };
+		03106CF31BB3CEAB0050EDEC /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CEB1BB3CEAB0050EDEC /* 6.png */; };
+		03106CF41BB3CEAB0050EDEC /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CEC1BB3CEAB0050EDEC /* 7.png */; };
+		03106CF51BB3CEAB0050EDEC /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CED1BB3CEAB0050EDEC /* 8.png */; };
+		03106CF91BB3CEB70050EDEC /* ball.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CF61BB3CEB70050EDEC /* ball.png */; };
+		03106CFA1BB3CEB70050EDEC /* block.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CF71BB3CEB70050EDEC /* block.png */; };
+		03106D031BB3CEC50050EDEC /* cloud1.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CFC1BB3CEC50050EDEC /* cloud1.png */; };
+		03106D041BB3CEC50050EDEC /* cloud2.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CFD1BB3CEC50050EDEC /* cloud2.png */; };
+		03106D051BB3CEC50050EDEC /* cloud3.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CFE1BB3CEC50050EDEC /* cloud3.png */; };
+		03106D061BB3CEC50050EDEC /* clown.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106CFF1BB3CEC50050EDEC /* clown.png */; };
+		03106D071BB3CEC50050EDEC /* fireball.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106D001BB3CEC50050EDEC /* fireball.png */; };
+		03106D081BB3CEC50050EDEC /* gameover.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106D011BB3CEC50050EDEC /* gameover.png */; };
+		03106D091BB3CEC50050EDEC /* marioKilled.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106D021BB3CEC50050EDEC /* marioKilled.png */; };
+		03106D0B1BB3E2A80050EDEC /* city.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106D0A1BB3E2A80050EDEC /* city.png */; };
+		03106D0E1BB3E6BD0050EDEC /* Cloud.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106D0D1BB3E6BD0050EDEC /* Cloud.m */; };
+		03106D111BB3F0F70050EDEC /* Superricks.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106D101BB3F0F70050EDEC /* Superricks.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +69,37 @@
 		03106CCF1BB396A60050EDEC /* ConsoleScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConsoleScreen.m; sourceTree = "<group>"; };
 		03106CD01BB396A60050EDEC /* MainScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainScreen.h; sourceTree = "<group>"; };
 		03106CD11BB396A60050EDEC /* MainScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainScreen.m; sourceTree = "<group>"; };
+		03106CD71BB397D20050EDEC /* Sence.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Sence.h; path = GameCore/Sence.h; sourceTree = "<group>"; };
+		03106CD81BB397D20050EDEC /* Sence.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Sence.m; path = GameCore/Sence.m; sourceTree = "<group>"; };
+		03106CDA1BB398270050EDEC /* Sprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Sprite.h; path = GameCore/Sprite.h; sourceTree = "<group>"; };
+		03106CDB1BB398270050EDEC /* Sprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Sprite.m; path = GameCore/Sprite.m; sourceTree = "<group>"; };
+		03106CDE1BB39D070050EDEC /* soccer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = soccer.png; sourceTree = "<group>"; };
+		03106CE01BB39D450050EDEC /* SenceAndSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SenceAndSprite.h; sourceTree = "<group>"; };
+		03106CE11BB39D450050EDEC /* SenceAndSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SenceAndSprite.m; sourceTree = "<group>"; };
+		03106CE31BB3CE7F0050EDEC /* CityAndCloud.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CityAndCloud.h; path = GameCore/CityAndCloud.h; sourceTree = "<group>"; };
+		03106CE41BB3CE7F0050EDEC /* CityAndCloud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CityAndCloud.m; path = GameCore/CityAndCloud.m; sourceTree = "<group>"; };
+		03106CE61BB3CEAB0050EDEC /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		03106CE71BB3CEAB0050EDEC /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		03106CE81BB3CEAB0050EDEC /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		03106CE91BB3CEAB0050EDEC /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		03106CEA1BB3CEAB0050EDEC /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		03106CEB1BB3CEAB0050EDEC /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		03106CEC1BB3CEAB0050EDEC /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		03106CED1BB3CEAB0050EDEC /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		03106CF61BB3CEB70050EDEC /* ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball.png; sourceTree = "<group>"; };
+		03106CF71BB3CEB70050EDEC /* block.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = block.png; sourceTree = "<group>"; };
+		03106CFC1BB3CEC50050EDEC /* cloud1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloud1.png; sourceTree = "<group>"; };
+		03106CFD1BB3CEC50050EDEC /* cloud2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloud2.png; sourceTree = "<group>"; };
+		03106CFE1BB3CEC50050EDEC /* cloud3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloud3.png; sourceTree = "<group>"; };
+		03106CFF1BB3CEC50050EDEC /* clown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clown.png; sourceTree = "<group>"; };
+		03106D001BB3CEC50050EDEC /* fireball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fireball.png; sourceTree = "<group>"; };
+		03106D011BB3CEC50050EDEC /* gameover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gameover.png; sourceTree = "<group>"; };
+		03106D021BB3CEC50050EDEC /* marioKilled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = marioKilled.png; sourceTree = "<group>"; };
+		03106D0A1BB3E2A80050EDEC /* city.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = city.png; sourceTree = "<group>"; };
+		03106D0C1BB3E6BD0050EDEC /* Cloud.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Cloud.h; path = GameCore/Cloud.h; sourceTree = "<group>"; };
+		03106D0D1BB3E6BD0050EDEC /* Cloud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Cloud.m; path = GameCore/Cloud.m; sourceTree = "<group>"; };
+		03106D0F1BB3F0F70050EDEC /* Superricks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Superricks.h; path = GameCore/Superricks.h; sourceTree = "<group>"; };
+		03106D101BB3F0F70050EDEC /* Superricks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Superricks.m; path = GameCore/Superricks.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +123,8 @@
 		03106C961BB395D10050EDEC = {
 			isa = PBXGroup;
 			children = (
+				03106CDD1BB39CC50050EDEC /* Images */,
+				03106CD61BB397AB0050EDEC /* GameCore */,
 				03106CC91BB396640050EDEC /* Base */,
 				03106CC81BB396590050EDEC /* Core */,
 				03106CA11BB395D10050EDEC /* GameEngine */,
@@ -138,8 +196,53 @@
 		03106CC91BB396640050EDEC /* Base */ = {
 			isa = PBXGroup;
 			children = (
+				03106CE01BB39D450050EDEC /* SenceAndSprite.h */,
+				03106CE11BB39D450050EDEC /* SenceAndSprite.m */,
+				03106CE31BB3CE7F0050EDEC /* CityAndCloud.h */,
+				03106CE41BB3CE7F0050EDEC /* CityAndCloud.m */,
 			);
 			name = Base;
+			sourceTree = "<group>";
+		};
+		03106CD61BB397AB0050EDEC /* GameCore */ = {
+			isa = PBXGroup;
+			children = (
+				03106CD71BB397D20050EDEC /* Sence.h */,
+				03106CD81BB397D20050EDEC /* Sence.m */,
+				03106CDA1BB398270050EDEC /* Sprite.h */,
+				03106CDB1BB398270050EDEC /* Sprite.m */,
+				03106D0C1BB3E6BD0050EDEC /* Cloud.h */,
+				03106D0D1BB3E6BD0050EDEC /* Cloud.m */,
+				03106D0F1BB3F0F70050EDEC /* Superricks.h */,
+				03106D101BB3F0F70050EDEC /* Superricks.m */,
+			);
+			name = GameCore;
+			sourceTree = "<group>";
+		};
+		03106CDD1BB39CC50050EDEC /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				03106D0A1BB3E2A80050EDEC /* city.png */,
+				03106CFC1BB3CEC50050EDEC /* cloud1.png */,
+				03106CFD1BB3CEC50050EDEC /* cloud2.png */,
+				03106CFE1BB3CEC50050EDEC /* cloud3.png */,
+				03106CFF1BB3CEC50050EDEC /* clown.png */,
+				03106D001BB3CEC50050EDEC /* fireball.png */,
+				03106D011BB3CEC50050EDEC /* gameover.png */,
+				03106D021BB3CEC50050EDEC /* marioKilled.png */,
+				03106CF61BB3CEB70050EDEC /* ball.png */,
+				03106CF71BB3CEB70050EDEC /* block.png */,
+				03106CE61BB3CEAB0050EDEC /* 1.png */,
+				03106CE71BB3CEAB0050EDEC /* 2.png */,
+				03106CE81BB3CEAB0050EDEC /* 3.png */,
+				03106CE91BB3CEAB0050EDEC /* 4.png */,
+				03106CEA1BB3CEAB0050EDEC /* 5.png */,
+				03106CEB1BB3CEAB0050EDEC /* 6.png */,
+				03106CEC1BB3CEAB0050EDEC /* 7.png */,
+				03106CED1BB3CEAB0050EDEC /* 8.png */,
+				03106CDE1BB39D070050EDEC /* soccer.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -222,8 +325,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03106CF51BB3CEAB0050EDEC /* 8.png in Resources */,
+				03106D081BB3CEC50050EDEC /* gameover.png in Resources */,
+				03106CFA1BB3CEB70050EDEC /* block.png in Resources */,
+				03106D091BB3CEC50050EDEC /* marioKilled.png in Resources */,
+				03106CDF1BB39D070050EDEC /* soccer.png in Resources */,
+				03106CF91BB3CEB70050EDEC /* ball.png in Resources */,
+				03106CF11BB3CEAB0050EDEC /* 4.png in Resources */,
+				03106D071BB3CEC50050EDEC /* fireball.png in Resources */,
+				03106CEE1BB3CEAB0050EDEC /* 1.png in Resources */,
+				03106D041BB3CEC50050EDEC /* cloud2.png in Resources */,
+				03106CF31BB3CEAB0050EDEC /* 6.png in Resources */,
+				03106D061BB3CEC50050EDEC /* clown.png in Resources */,
+				03106CEF1BB3CEAB0050EDEC /* 2.png in Resources */,
+				03106D051BB3CEC50050EDEC /* cloud3.png in Resources */,
+				03106CF01BB3CEAB0050EDEC /* 3.png in Resources */,
+				03106CF21BB3CEAB0050EDEC /* 5.png in Resources */,
+				03106CF41BB3CEAB0050EDEC /* 7.png in Resources */,
 				03106CB31BB395D10050EDEC /* LaunchScreen.xib in Resources */,
+				03106D031BB3CEC50050EDEC /* cloud1.png in Resources */,
 				03106CB01BB395D10050EDEC /* Images.xcassets in Resources */,
+				03106D0B1BB3E2A80050EDEC /* city.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -241,10 +363,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03106CD91BB397D20050EDEC /* Sence.m in Sources */,
 				03106CD31BB396A60050EDEC /* BootLogic.m in Sources */,
 				03106CD51BB396A60050EDEC /* MainScreen.m in Sources */,
+				03106D0E1BB3E6BD0050EDEC /* Cloud.m in Sources */,
+				03106CE21BB39D450050EDEC /* SenceAndSprite.m in Sources */,
+				03106CE51BB3CE7F0050EDEC /* CityAndCloud.m in Sources */,
 				03106CD41BB396A60050EDEC /* ConsoleScreen.m in Sources */,
 				03106CD21BB396A60050EDEC /* AppDelegate.m in Sources */,
+				03106D111BB3F0F70050EDEC /* Superricks.m in Sources */,
+				03106CDC1BB398270050EDEC /* Sprite.m in Sources */,
 				03106CA51BB395D10050EDEC /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
