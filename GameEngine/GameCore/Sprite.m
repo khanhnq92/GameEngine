@@ -19,6 +19,14 @@
     }
     return self;
 }
+- (instancetype)initWithName:(NSString*)name
+                     inSence:(Sence*)sence{
+    if(self==[super init]){
+        self.name=name;
+        self.sence=sence;
+    }
+    return self;
+}
 -(void)animation{
     
 }

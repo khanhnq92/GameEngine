@@ -9,6 +9,8 @@
 #import "CityAndCloud.h"
 #import <UIKit/UIKit.h>
 #import "Cloud.h"
+#import "Superricks.h"
+#import "FireCount.h"
 @interface CityAndCloud ()
 
 @end
@@ -18,6 +20,9 @@
     NSTimer* timer;
     Sprite* bgCity1,*bgCity2;
     Cloud* cloud1,*cloud2,*cloud3;
+    Superricks* superMario;
+    FireCount* fireCount;
+
 }
 -(void)viewDidDisappear:(BOOL)animated{
     [super viewDidDisappear:animated];
@@ -95,5 +100,26 @@
     [self addSprite:cloud1];
     [self addSprite:cloud2];
     [self addSprite:cloud3];
+    
+    //them mario
+    superMario=[[Superricks alloc] initWithName:@"mario" inSence:self];
+    superMario.y0=self.size.height-superMario.view.bounds.size.height*0.5-10;
+    superMario.view.center=CGPointMake(self.size.width/2, superMario.y0);
+    [self addSprite:superMario];
+    
+    //THem diem
+    Sprite* pointImg=[[Sprite alloc] initWithName:@"firePointImg" ownView:[[UIImageView alloc]initWithImage:[UIImage imageNamed:@"firePoint.png"]] inSence:self];
+    Sprite* staffImg=[[Sprite alloc] initWithName:@"staffImg" ownView:[[UIImageView alloc]initWithImage:[UIImage imageNamed:@"staff.png"]] inSence:self];
+    
+    pointImg.view.frame=CGRectMake(self.view.frame.size.width-140, self.view.frame.size.height/99, 35, 35);
+    staffImg.view.frame=CGRectMake(pointImg.view.frame.origin.x+50, self.view.frame.size.height/99+7.5, 20, 20);
+    
+    [self addSprite:pointImg];
+    [self addSprite:staffImg];
+    
+    fireCount=[[FireCount alloc ]initWithName:@"fireCount" inSence:self];
+    fireCount.view.frame=CGRectMake(staffImg.view.frame.origin.x+30, self.view.frame.size.height/99+7.5, 32, 20);
+    [fireCount setValue:@"20"];
+    [self addSprite:fireCount];
 }
 @end

@@ -40,6 +40,10 @@
 		03106D0B1BB3E2A80050EDEC /* city.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106D0A1BB3E2A80050EDEC /* city.png */; };
 		03106D0E1BB3E6BD0050EDEC /* Cloud.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106D0D1BB3E6BD0050EDEC /* Cloud.m */; };
 		03106D111BB3F0F70050EDEC /* Superricks.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106D101BB3F0F70050EDEC /* Superricks.m */; };
+		039DD46B1BBD168D004E3FCA /* FireBall.m in Sources */ = {isa = PBXBuildFile; fileRef = 039DD46A1BBD168D004E3FCA /* FireBall.m */; };
+		039DD46D1BBD2372004E3FCA /* firePoint.png in Resources */ = {isa = PBXBuildFile; fileRef = 039DD46C1BBD2372004E3FCA /* firePoint.png */; };
+		039DD46F1BBD2397004E3FCA /* staff.png in Resources */ = {isa = PBXBuildFile; fileRef = 039DD46E1BBD2397004E3FCA /* staff.png */; };
+		039DD4721BBD289E004E3FCA /* FireCount.m in Sources */ = {isa = PBXBuildFile; fileRef = 039DD4711BBD289E004E3FCA /* FireCount.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -100,6 +104,12 @@
 		03106D0D1BB3E6BD0050EDEC /* Cloud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Cloud.m; path = GameCore/Cloud.m; sourceTree = "<group>"; };
 		03106D0F1BB3F0F70050EDEC /* Superricks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Superricks.h; path = GameCore/Superricks.h; sourceTree = "<group>"; };
 		03106D101BB3F0F70050EDEC /* Superricks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Superricks.m; path = GameCore/Superricks.m; sourceTree = "<group>"; };
+		039DD4691BBD168D004E3FCA /* FireBall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FireBall.h; path = class/FireBall.h; sourceTree = "<group>"; };
+		039DD46A1BBD168D004E3FCA /* FireBall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FireBall.m; path = class/FireBall.m; sourceTree = "<group>"; };
+		039DD46C1BBD2372004E3FCA /* firePoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firePoint.png; sourceTree = "<group>"; };
+		039DD46E1BBD2397004E3FCA /* staff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = staff.png; sourceTree = "<group>"; };
+		039DD4701BBD289E004E3FCA /* FireCount.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FireCount.h; sourceTree = "<group>"; };
+		039DD4711BBD289E004E3FCA /* FireCount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FireCount.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -215,6 +225,10 @@
 				03106D0D1BB3E6BD0050EDEC /* Cloud.m */,
 				03106D0F1BB3F0F70050EDEC /* Superricks.h */,
 				03106D101BB3F0F70050EDEC /* Superricks.m */,
+				039DD4691BBD168D004E3FCA /* FireBall.h */,
+				039DD46A1BBD168D004E3FCA /* FireBall.m */,
+				039DD4701BBD289E004E3FCA /* FireCount.h */,
+				039DD4711BBD289E004E3FCA /* FireCount.m */,
 			);
 			name = GameCore;
 			sourceTree = "<group>";
@@ -222,6 +236,8 @@
 		03106CDD1BB39CC50050EDEC /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				039DD46E1BBD2397004E3FCA /* staff.png */,
+				039DD46C1BBD2372004E3FCA /* firePoint.png */,
 				03106D0A1BB3E2A80050EDEC /* city.png */,
 				03106CFC1BB3CEC50050EDEC /* cloud1.png */,
 				03106CFD1BB3CEC50050EDEC /* cloud2.png */,
@@ -332,12 +348,14 @@
 				03106CDF1BB39D070050EDEC /* soccer.png in Resources */,
 				03106CF91BB3CEB70050EDEC /* ball.png in Resources */,
 				03106CF11BB3CEAB0050EDEC /* 4.png in Resources */,
+				039DD46F1BBD2397004E3FCA /* staff.png in Resources */,
 				03106D071BB3CEC50050EDEC /* fireball.png in Resources */,
 				03106CEE1BB3CEAB0050EDEC /* 1.png in Resources */,
 				03106D041BB3CEC50050EDEC /* cloud2.png in Resources */,
 				03106CF31BB3CEAB0050EDEC /* 6.png in Resources */,
 				03106D061BB3CEC50050EDEC /* clown.png in Resources */,
 				03106CEF1BB3CEAB0050EDEC /* 2.png in Resources */,
+				039DD46D1BBD2372004E3FCA /* firePoint.png in Resources */,
 				03106D051BB3CEC50050EDEC /* cloud3.png in Resources */,
 				03106CF01BB3CEAB0050EDEC /* 3.png in Resources */,
 				03106CF21BB3CEAB0050EDEC /* 5.png in Resources */,
@@ -363,6 +381,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				039DD4721BBD289E004E3FCA /* FireCount.m in Sources */,
 				03106CD91BB397D20050EDEC /* Sence.m in Sources */,
 				03106CD31BB396A60050EDEC /* BootLogic.m in Sources */,
 				03106CD51BB396A60050EDEC /* MainScreen.m in Sources */,
@@ -370,6 +389,7 @@
 				03106CE21BB39D450050EDEC /* SenceAndSprite.m in Sources */,
 				03106CE51BB3CE7F0050EDEC /* CityAndCloud.m in Sources */,
 				03106CD41BB396A60050EDEC /* ConsoleScreen.m in Sources */,
+				039DD46B1BBD168D004E3FCA /* FireBall.m in Sources */,
 				03106CD21BB396A60050EDEC /* AppDelegate.m in Sources */,
 				03106D111BB3F0F70050EDEC /* Superricks.m in Sources */,
 				03106CDC1BB398270050EDEC /* Sprite.m in Sources */,

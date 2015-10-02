@@ -9,5 +9,6 @@
 #import "Sprite.h"
 
 @interface Superricks : Sprite
-
+@property (nonatomic, assign) BOOL alive;
+@property (nonatomic, assign) CGFloat y0;
 @end

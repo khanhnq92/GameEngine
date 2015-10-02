@@ -17,5 +17,7 @@
 - (instancetype)initWithName:(NSString*)name
                       ownView:(UIView*)view
                       inSence:(Sence*)sence;
+- (instancetype)initWithName:(NSString*)name
+                     inSence:(Sence*)sence;
 -(void)animation;
 @end
