@@ -16,6 +16,7 @@
     UIImageView* photo;
     UIScrollView* scrView;
     UIToolbar* toolbar;
+    UILabel* lblScale;
 }
 
 - (void)viewDidLoad {
@@ -47,14 +48,23 @@
     scrView.minimumZoomScale=slider.minimumValue;
     scrView.maximumZoomScale=slider.maximumValue;
     scrView.zoomScale=slider.value;
+    
+    lblScale=[[UILabel alloc] initWithFrame:CGRectMake(0, 0, 60, 25)];
+    lblScale.textAlignment=NSTextAlignmentRight;
+    lblScale.text=[NSString stringWithFormat:@"%2.1f",scrView.zoomScale];
+    
+    UIBarButtonItem* item=[[UIBarButtonItem alloc] initWithCustomView:lblScale];
+    [self.navigationItem setRightBarButtonItem:item];
 }
 -(void)sliderChange{
     [scrView  setZoomScale:slider.value animated:true];
+    lblScale.text=[NSString stringWithFormat:@"%2.1f",scrView.zoomScale];
 }
 -(UIView *)viewForZoomingInScrollView:(UIScrollView *)scrollView{
     return photo;
 }
 -(void)scrollViewDidZoom:(UIScrollView *)scrollView{
     slider.value=scrView.zoomScale;
+    lblScale.text=[NSString stringWithFormat:@"%2.1f",scrView.zoomScale];
 }
 @end
