@@ -18,7 +18,9 @@
 @property(strong,nonatomic)UILabel* lblScale;
 @end
 
-@implementation SimpleScrollView
+@implementation SimpleScrollView{
+    NSTimer* timer;
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -72,13 +74,18 @@
     [_pageControl addTarget:self  action:@selector(pageControlChange:) forControlEvents:UIControlEventValueChanged];
     [self.view addSubview:_pageControl];
     
-    
     _lblScale=[[UILabel alloc] initWithFrame:CGRectMake(0, 0, 60, 25)];
     _lblScale.textAlignment=NSTextAlignmentRight;
     _lblScale.text=[NSString stringWithFormat:@"%2.1f",_scrView.zoomScale];
     
     UIBarButtonItem* item=[[UIBarButtonItem alloc] initWithCustomView:_lblScale];
     [self.navigationItem setRightBarButtonItem:item];
+    
+    timer=[NSTimer scheduledTimerWithTimeInterval:2 target:self selector:@selector(runningSlideShow) userInfo:nil repeats:true];
+}
+-(void)runningSlideShow{
+    _pageControl.currentPage=arc4random_uniform(6);
+     _scrView.contentOffset=CGPointMake(Photo_width*_pageControl.currentPage, 0);
 }
 -(void)onSingleTap:(UITapGestureRecognizer*)sender{
     int pageIndex=_scrView.contentOffset.x/Photo_width;
@@ -126,8 +133,10 @@
 }
 -(void)pageControlChange:(UIPageControl*) page{
     _scrView.contentOffset=CGPointMake(Photo_width*page.currentPage, 0);
+    self.lblScale.text = [NSString stringWithFormat:@"%2.1f", self.scrView.zoomScale];
 }
 -(void)scrollViewDidScroll:(UIScrollView *)scrollView{
     _pageControl.currentPage=_scrView.contentOffset.x/Photo_width;
+    self.lblScale.text = [NSString stringWithFormat:@"%2.1f", self.scrView.zoomScale];
 }
 @end
