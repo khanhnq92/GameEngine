@@ -13,16 +13,6 @@
 @end
 
 @implementation MainScreen
-/*
-- (id)initWithStyle:(UITableViewStyle)style
-{
-    self = [super initWithStyle:style];
-    if (self) {
-
-    }
-    return self;
-}
-*/
 - (void)viewDidLoad
 {
     [super viewDidLoad];
@@ -49,7 +39,6 @@
     
     return [menuSection[MENU] count];
 }
-
 - (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
 {
     NSDictionary* menuSection = self.menu[section];
@@ -69,7 +58,6 @@
     cell.textLabel.text = menuItem[TITLE];
     return cell;
 }
-
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
     NSDictionary* menuSection = self.menu[indexPath.section];
@@ -77,7 +65,6 @@
     NSString* xibClass = menuItem[CLASS];
 
     UIViewController* detailScreen;
-    
     
     if([[NSBundle mainBundle] pathForResource:xibClass ofType:@"nib"] != nil)
     {
@@ -97,8 +84,5 @@
         UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Warning" message:message delegate:self cancelButtonTitle:@"Ok" otherButtonTitles:nil, nil];
         [alert show];
     }
-    
 }
-
-
 @end

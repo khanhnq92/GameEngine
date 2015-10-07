@@ -40,10 +40,20 @@
 		03106D0B1BB3E2A80050EDEC /* city.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106D0A1BB3E2A80050EDEC /* city.png */; };
 		03106D0E1BB3E6BD0050EDEC /* Cloud.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106D0D1BB3E6BD0050EDEC /* Cloud.m */; };
 		03106D111BB3F0F70050EDEC /* Superricks.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106D101BB3F0F70050EDEC /* Superricks.m */; };
+		03798E6D1BC36D3900D6F71C /* ScrollViewAnd.m in Sources */ = {isa = PBXBuildFile; fileRef = 03798E6C1BC36D3900D6F71C /* ScrollViewAnd.m */; };
 		039DD46B1BBD168D004E3FCA /* FireBall.m in Sources */ = {isa = PBXBuildFile; fileRef = 039DD46A1BBD168D004E3FCA /* FireBall.m */; };
 		039DD46D1BBD2372004E3FCA /* firePoint.png in Resources */ = {isa = PBXBuildFile; fileRef = 039DD46C1BBD2372004E3FCA /* firePoint.png */; };
 		039DD46F1BBD2397004E3FCA /* staff.png in Resources */ = {isa = PBXBuildFile; fileRef = 039DD46E1BBD2397004E3FCA /* staff.png */; };
 		039DD4721BBD289E004E3FCA /* FireCount.m in Sources */ = {isa = PBXBuildFile; fileRef = 039DD4711BBD289E004E3FCA /* FireCount.m */; };
+		03CEA1841BC3A8A30005CDC1 /* people.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 03CEA1831BC3A8A30005CDC1 /* people.jpg */; };
+		03CEA1871BC3A8C00005CDC1 /* ScrContenSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 03CEA1861BC3A8C00005CDC1 /* ScrContenSize.m */; };
+		03CEA1961BC3B66D0005CDC1 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 03CEA1901BC3B66D0005CDC1 /* 1.jpg */; };
+		03CEA1971BC3B66D0005CDC1 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 03CEA1911BC3B66D0005CDC1 /* 2.jpg */; };
+		03CEA1981BC3B66D0005CDC1 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 03CEA1921BC3B66D0005CDC1 /* 3.jpg */; };
+		03CEA1991BC3B66D0005CDC1 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 03CEA1931BC3B66D0005CDC1 /* 4.jpg */; };
+		03CEA19A1BC3B66D0005CDC1 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 03CEA1941BC3B66D0005CDC1 /* 5.jpg */; };
+		03CEA19B1BC3B66D0005CDC1 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 03CEA1951BC3B66D0005CDC1 /* 6.jpg */; };
+		03CEA19E1BC3B6970005CDC1 /* SimpleScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 03CEA19D1BC3B6970005CDC1 /* SimpleScrollView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -104,12 +114,25 @@
 		03106D0D1BB3E6BD0050EDEC /* Cloud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Cloud.m; path = GameCore/Cloud.m; sourceTree = "<group>"; };
 		03106D0F1BB3F0F70050EDEC /* Superricks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Superricks.h; path = GameCore/Superricks.h; sourceTree = "<group>"; };
 		03106D101BB3F0F70050EDEC /* Superricks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Superricks.m; path = GameCore/Superricks.m; sourceTree = "<group>"; };
+		03798E6B1BC36D3900D6F71C /* ScrollViewAnd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScrollViewAnd.h; path = scrollview/ScrollViewAnd.h; sourceTree = "<group>"; };
+		03798E6C1BC36D3900D6F71C /* ScrollViewAnd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScrollViewAnd.m; path = scrollview/ScrollViewAnd.m; sourceTree = "<group>"; };
 		039DD4691BBD168D004E3FCA /* FireBall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FireBall.h; path = class/FireBall.h; sourceTree = "<group>"; };
 		039DD46A1BBD168D004E3FCA /* FireBall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FireBall.m; path = class/FireBall.m; sourceTree = "<group>"; };
 		039DD46C1BBD2372004E3FCA /* firePoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firePoint.png; sourceTree = "<group>"; };
 		039DD46E1BBD2397004E3FCA /* staff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = staff.png; sourceTree = "<group>"; };
 		039DD4701BBD289E004E3FCA /* FireCount.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FireCount.h; sourceTree = "<group>"; };
 		039DD4711BBD289E004E3FCA /* FireCount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FireCount.m; sourceTree = "<group>"; };
+		03CEA1831BC3A8A30005CDC1 /* people.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = people.jpg; sourceTree = "<group>"; };
+		03CEA1851BC3A8C00005CDC1 /* ScrContenSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScrContenSize.h; path = scrollview/ScrContenSize.h; sourceTree = "<group>"; };
+		03CEA1861BC3A8C00005CDC1 /* ScrContenSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScrContenSize.m; path = scrollview/ScrContenSize.m; sourceTree = "<group>"; };
+		03CEA1901BC3B66D0005CDC1 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1.jpg; path = samplePhoto/1.jpg; sourceTree = "<group>"; };
+		03CEA1911BC3B66D0005CDC1 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 2.jpg; path = samplePhoto/2.jpg; sourceTree = "<group>"; };
+		03CEA1921BC3B66D0005CDC1 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 3.jpg; path = samplePhoto/3.jpg; sourceTree = "<group>"; };
+		03CEA1931BC3B66D0005CDC1 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 4.jpg; path = samplePhoto/4.jpg; sourceTree = "<group>"; };
+		03CEA1941BC3B66D0005CDC1 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 5.jpg; path = samplePhoto/5.jpg; sourceTree = "<group>"; };
+		03CEA1951BC3B66D0005CDC1 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 6.jpg; path = samplePhoto/6.jpg; sourceTree = "<group>"; };
+		03CEA19C1BC3B6970005CDC1 /* SimpleScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SimpleScrollView.h; path = scrollview/SimpleScrollView.h; sourceTree = "<group>"; };
+		03CEA19D1BC3B6970005CDC1 /* SimpleScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SimpleScrollView.m; path = scrollview/SimpleScrollView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,6 +233,12 @@
 				03106CE11BB39D450050EDEC /* SenceAndSprite.m */,
 				03106CE31BB3CE7F0050EDEC /* CityAndCloud.h */,
 				03106CE41BB3CE7F0050EDEC /* CityAndCloud.m */,
+				03798E6B1BC36D3900D6F71C /* ScrollViewAnd.h */,
+				03798E6C1BC36D3900D6F71C /* ScrollViewAnd.m */,
+				03CEA1851BC3A8C00005CDC1 /* ScrContenSize.h */,
+				03CEA1861BC3A8C00005CDC1 /* ScrContenSize.m */,
+				03CEA19C1BC3B6970005CDC1 /* SimpleScrollView.h */,
+				03CEA19D1BC3B6970005CDC1 /* SimpleScrollView.m */,
 			);
 			name = Base;
 			sourceTree = "<group>";
@@ -236,6 +265,13 @@
 		03106CDD1BB39CC50050EDEC /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				03CEA1901BC3B66D0005CDC1 /* 1.jpg */,
+				03CEA1911BC3B66D0005CDC1 /* 2.jpg */,
+				03CEA1921BC3B66D0005CDC1 /* 3.jpg */,
+				03CEA1931BC3B66D0005CDC1 /* 4.jpg */,
+				03CEA1941BC3B66D0005CDC1 /* 5.jpg */,
+				03CEA1951BC3B66D0005CDC1 /* 6.jpg */,
+				03CEA1831BC3A8A30005CDC1 /* people.jpg */,
 				039DD46E1BBD2397004E3FCA /* staff.png */,
 				039DD46C1BBD2372004E3FCA /* firePoint.png */,
 				03106D0A1BB3E2A80050EDEC /* city.png */,
@@ -349,18 +385,25 @@
 				03106CF91BB3CEB70050EDEC /* ball.png in Resources */,
 				03106CF11BB3CEAB0050EDEC /* 4.png in Resources */,
 				039DD46F1BBD2397004E3FCA /* staff.png in Resources */,
+				03CEA1991BC3B66D0005CDC1 /* 4.jpg in Resources */,
 				03106D071BB3CEC50050EDEC /* fireball.png in Resources */,
+				03CEA1981BC3B66D0005CDC1 /* 3.jpg in Resources */,
 				03106CEE1BB3CEAB0050EDEC /* 1.png in Resources */,
 				03106D041BB3CEC50050EDEC /* cloud2.png in Resources */,
 				03106CF31BB3CEAB0050EDEC /* 6.png in Resources */,
 				03106D061BB3CEC50050EDEC /* clown.png in Resources */,
 				03106CEF1BB3CEAB0050EDEC /* 2.png in Resources */,
+				03CEA1961BC3B66D0005CDC1 /* 1.jpg in Resources */,
+				03CEA1841BC3A8A30005CDC1 /* people.jpg in Resources */,
 				039DD46D1BBD2372004E3FCA /* firePoint.png in Resources */,
+				03CEA19A1BC3B66D0005CDC1 /* 5.jpg in Resources */,
 				03106D051BB3CEC50050EDEC /* cloud3.png in Resources */,
 				03106CF01BB3CEAB0050EDEC /* 3.png in Resources */,
 				03106CF21BB3CEAB0050EDEC /* 5.png in Resources */,
 				03106CF41BB3CEAB0050EDEC /* 7.png in Resources */,
+				03CEA19B1BC3B66D0005CDC1 /* 6.jpg in Resources */,
 				03106CB31BB395D10050EDEC /* LaunchScreen.xib in Resources */,
+				03CEA1971BC3B66D0005CDC1 /* 2.jpg in Resources */,
 				03106D031BB3CEC50050EDEC /* cloud1.png in Resources */,
 				03106CB01BB395D10050EDEC /* Images.xcassets in Resources */,
 				03106D0B1BB3E2A80050EDEC /* city.png in Resources */,
@@ -386,14 +429,17 @@
 				03106CD31BB396A60050EDEC /* BootLogic.m in Sources */,
 				03106CD51BB396A60050EDEC /* MainScreen.m in Sources */,
 				03106D0E1BB3E6BD0050EDEC /* Cloud.m in Sources */,
+				03798E6D1BC36D3900D6F71C /* ScrollViewAnd.m in Sources */,
 				03106CE21BB39D450050EDEC /* SenceAndSprite.m in Sources */,
 				03106CE51BB3CE7F0050EDEC /* CityAndCloud.m in Sources */,
 				03106CD41BB396A60050EDEC /* ConsoleScreen.m in Sources */,
+				03CEA1871BC3A8C00005CDC1 /* ScrContenSize.m in Sources */,
 				039DD46B1BBD168D004E3FCA /* FireBall.m in Sources */,
 				03106CD21BB396A60050EDEC /* AppDelegate.m in Sources */,
 				03106D111BB3F0F70050EDEC /* Superricks.m in Sources */,
 				03106CDC1BB398270050EDEC /* Sprite.m in Sources */,
 				03106CA51BB395D10050EDEC /* main.m in Sources */,
+				03CEA19E1BC3B6970005CDC1 /* SimpleScrollView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -17,10 +17,13 @@
     //--------- From this line, please customize your menu data -----------
     NSDictionary* basic = @{SECTION: @"Basic", MENU: @[
                                     @{TITLE: @"SenceAndSprite", CLASS: @"SenceAndSprite"},
-                                    @{TITLE: @"Thanh pho va may", CLASS: @"CityAndCloud"}
+                                    @{TITLE: @"Thanh pho va may", CLASS: @"CityAndCloud"},
+                                    
                           ]};
-    NSDictionary* intermediate = @{SECTION: @"Intermediate", MENU: @[
-                                    @{TITLE: @"Inter B", CLASS: @"InterB"}
+    NSDictionary* intermediate = @{SECTION: @"ScrollView", MENU: @[
+                                    @{TITLE: @"ScrollView", CLASS: @"ScrollViewAnd"},
+                                     @{TITLE: @"ContentSize", CLASS: @"ScrContenSize"},
+                                    @{TITLE: @"SimpleScrollView", CLASS: @"SimpleScrollView"},
                                   ]};
     NSDictionary* advanced = @{SECTION: @"Advanced", MENU: @[
                                     @{TITLE: @"Advanced C", CLASS: @"AdvancedC"}

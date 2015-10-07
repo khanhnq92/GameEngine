@@ -28,7 +28,7 @@
     [super viewDidLoad];
     [self addView];
     thayDoi=1;
-    detaAngle=0.4;
+    detaAngle=0.05;
     timer=[NSTimer scheduledTimerWithTimeInterval:0.01 target:self selector:@selector(ballAnimation) userInfo:nil repeats:true];
 }
 -(void) ballAnimation{
