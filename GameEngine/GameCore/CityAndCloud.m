@@ -32,8 +32,13 @@
     [super viewDidLoad];
     [self addView];
     timer=[NSTimer scheduledTimerWithTimeInterval:0.01 target:self selector:@selector(runningGame) userInfo:nil repeats:true];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(killTimer) name:@"closeTimer" object:nil];
+}
+-(void)killTimer{
+    [timer invalidate];
 }
 -(void)runningGame{
+    NSLog(@"Timer Running from CityAndCloud!");
     if(bgCity1.view.frame.origin.x+bgCity1.view.frame.size.width<=0)
         bgCity1.view.frame=CGRectMake(bgCity2.view.frame.origin.x+bgCity2.view.frame.size.width-2, bgCity1.view.frame.origin.y, bgCity1.view.frame.size.width, bgCity1.view.frame.size.height);
     if(bgCity2.view.frame.origin.x+bgCity2.view.frame.size.width<=0)

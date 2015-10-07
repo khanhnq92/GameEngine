@@ -30,8 +30,13 @@
     thayDoi=1;
     detaAngle=0.05;
     timer=[NSTimer scheduledTimerWithTimeInterval:0.01 target:self selector:@selector(ballAnimation) userInfo:nil repeats:true];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(killTimer) name:@"closeTimer" object:nil];
+}
+-(void)killTimer{
+    [timer invalidate];
 }
 -(void) ballAnimation{
+    NSLog(@"Timer Running from SenceAndSprite!");
     if(spBall.view.frame.origin.x+spBall.view.frame.size.width>=sizeMain.width)
     {
         thayDoi=-thayDoi;

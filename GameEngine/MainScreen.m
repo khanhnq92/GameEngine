@@ -27,7 +27,9 @@
     [alert show];
 }
 #pragma mark - Table view data source
-
+-(void)viewDidAppear:(BOOL)animated{
+    [[NSNotificationCenter defaultCenter] postNotificationName:@"closeTimer" object:nil];
+}
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
     return [self.menu count];

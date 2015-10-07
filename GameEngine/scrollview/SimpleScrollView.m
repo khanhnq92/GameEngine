@@ -21,7 +21,9 @@
 @implementation SimpleScrollView{
     NSTimer* timer;
 }
-
+-(void)killTimer{
+    [timer invalidate];
+}
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor=[UIColor whiteColor];
@@ -81,9 +83,12 @@
     UIBarButtonItem* item=[[UIBarButtonItem alloc] initWithCustomView:_lblScale];
     [self.navigationItem setRightBarButtonItem:item];
     
+    
     timer=[NSTimer scheduledTimerWithTimeInterval:2 target:self selector:@selector(runningSlideShow) userInfo:nil repeats:true];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(killTimer) name:@"closeTimer" object:nil];
 }
 -(void)runningSlideShow{
+    NSLog(@"SimpleScroll running timer!");
     _pageControl.currentPage=arc4random_uniform(6);
      _scrView.contentOffset=CGPointMake(Photo_width*_pageControl.currentPage, 0);
 }
