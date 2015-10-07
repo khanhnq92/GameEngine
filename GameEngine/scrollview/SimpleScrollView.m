@@ -86,7 +86,27 @@
     
     timer=[NSTimer scheduledTimerWithTimeInterval:2 target:self selector:@selector(runningSlideShow) userInfo:nil repeats:true];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(killTimer) name:@"closeTimer" object:nil];
+    
+    
+    UIButton* btnTunoff=[[UIButton alloc] initWithFrame:CGRectMake(0, 0, 200, 40)];
+    btnTunoff.backgroundColor=[UIColor redColor];
+    btnTunoff.center=CGPointMake(sizeFrame.size.width/2, _scrView.frame.origin.x+_scrView.frame.size.height+20);
+    [btnTunoff setTitle:@"Turn off SlideShow" forState:UIControlStateNormal];
+    [btnTunoff addTarget:self action:@selector(TurnOff:) forControlEvents:UIControlEventTouchUpInside];
+    [self.view addSubview:btnTunoff];
 }
+-(void)TurnOff:(UIButton*) sender{
+    if([sender.titleLabel.text isEqualToString:@"Turn off SlideShow"]){
+        [sender setTitle:@"Turn on SlideShow" forState:UIControlStateNormal];
+        sender.backgroundColor=[UIColor greenColor];
+        [timer invalidate];
+    }else{
+        [sender setTitle:@"Turn off SlideShow" forState:UIControlStateNormal];
+        sender.backgroundColor=[UIColor redColor];
+        timer=[NSTimer scheduledTimerWithTimeInterval:2 target:self selector:@selector(runningSlideShow) userInfo:nil repeats:true];
+    }
+}
+
 -(void)runningSlideShow{
     NSLog(@"SimpleScroll running timer!");
     _pageControl.currentPage=arc4random_uniform(6);
