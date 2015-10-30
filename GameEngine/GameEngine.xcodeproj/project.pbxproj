@@ -40,7 +40,60 @@
 		03106D0B1BB3E2A80050EDEC /* city.png in Resources */ = {isa = PBXBuildFile; fileRef = 03106D0A1BB3E2A80050EDEC /* city.png */; };
 		03106D0E1BB3E6BD0050EDEC /* Cloud.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106D0D1BB3E6BD0050EDEC /* Cloud.m */; };
 		03106D111BB3F0F70050EDEC /* Superricks.m in Sources */ = {isa = PBXBuildFile; fileRef = 03106D101BB3F0F70050EDEC /* Superricks.m */; };
+		0349469F1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349467B1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-1.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946A01BE323CB0098C98A /* iphone-6-plus-16gb-360-org-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349467C1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-2.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946A11BE323CB0098C98A /* iphone-6-plus-16gb-360-org-3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349467D1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-3.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946A21BE323CB0098C98A /* iphone-6-plus-16gb-360-org-4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349467E1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-4.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946A31BE323CB0098C98A /* iphone-6-plus-16gb-360-org-5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349467F1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-5.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946A41BE323CB0098C98A /* iphone-6-plus-16gb-360-org-6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946801BE323CB0098C98A /* iphone-6-plus-16gb-360-org-6.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946A51BE323CB0098C98A /* iphone-6-plus-16gb-360-org-7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946811BE323CB0098C98A /* iphone-6-plus-16gb-360-org-7.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946A61BE323CB0098C98A /* iphone-6-plus-16gb-360-org-8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946821BE323CB0098C98A /* iphone-6-plus-16gb-360-org-8.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946A71BE323CB0098C98A /* iphone-6-plus-16gb-360-org-9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946831BE323CB0098C98A /* iphone-6-plus-16gb-360-org-9.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946A81BE323CB0098C98A /* iphone-6-plus-16gb-360-org-10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946841BE323CB0098C98A /* iphone-6-plus-16gb-360-org-10.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946A91BE323CB0098C98A /* iphone-6-plus-16gb-360-org-11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946851BE323CB0098C98A /* iphone-6-plus-16gb-360-org-11.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946AA1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946861BE323CB0098C98A /* iphone-6-plus-16gb-360-org-12.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946AB1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946871BE323CB0098C98A /* iphone-6-plus-16gb-360-org-13.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946AC1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946881BE323CB0098C98A /* iphone-6-plus-16gb-360-org-14.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946AD1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946891BE323CB0098C98A /* iphone-6-plus-16gb-360-org-15.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946AE1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349468A1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-16.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946AF1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349468B1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-17.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946B01BE323CB0098C98A /* iphone-6-plus-16gb-360-org-18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349468C1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-18.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946B11BE323CB0098C98A /* iphone-6-plus-16gb-360-org-19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349468D1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-19.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946B21BE323CB0098C98A /* iphone-6-plus-16gb-360-org-20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349468E1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-20.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946B31BE323CB0098C98A /* iphone-6-plus-16gb-360-org-21.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349468F1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-21.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946B41BE323CB0098C98A /* iphone-6-plus-16gb-360-org-22.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946901BE323CB0098C98A /* iphone-6-plus-16gb-360-org-22.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946B51BE323CB0098C98A /* iphone-6-plus-16gb-360-org-23.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946911BE323CB0098C98A /* iphone-6-plus-16gb-360-org-23.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946B61BE323CB0098C98A /* iphone-6-plus-16gb-360-org-24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946921BE323CB0098C98A /* iphone-6-plus-16gb-360-org-24.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946B71BE323CB0098C98A /* iphone-6-plus-16gb-360-org-25.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946931BE323CB0098C98A /* iphone-6-plus-16gb-360-org-25.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946B81BE323CB0098C98A /* iphone-6-plus-16gb-360-org-26.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946941BE323CB0098C98A /* iphone-6-plus-16gb-360-org-26.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946B91BE323CB0098C98A /* iphone-6-plus-16gb-360-org-27.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946951BE323CB0098C98A /* iphone-6-plus-16gb-360-org-27.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946BA1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-28.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946961BE323CB0098C98A /* iphone-6-plus-16gb-360-org-28.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946BB1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-29.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946971BE323CB0098C98A /* iphone-6-plus-16gb-360-org-29.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946BC1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-30.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946981BE323CB0098C98A /* iphone-6-plus-16gb-360-org-30.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946BD1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-31.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 034946991BE323CB0098C98A /* iphone-6-plus-16gb-360-org-31.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946BE1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-32.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349469A1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-32.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946BF1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-33.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349469B1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-33.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946C01BE323CB0098C98A /* iphone-6-plus-16gb-360-org-34.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349469C1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-34.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946C11BE323CB0098C98A /* iphone-6-plus-16gb-360-org-35.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349469D1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-35.jpg */; settings = {ASSET_TAGS = (); }; };
+		034946C21BE323CB0098C98A /* iphone-6-plus-16gb-360-org-36.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0349469E1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-36.jpg */; settings = {ASSET_TAGS = (); }; };
+		0366158E1BD4A16900430497 /* Tap.m in Sources */ = {isa = PBXBuildFile; fileRef = 0366158D1BD4A16900430497 /* Tap.m */; settings = {ASSET_TAGS = (); }; };
+		036615981BD4A22E00430497 /* ant.png in Resources */ = {isa = PBXBuildFile; fileRef = 036615911BD4A22E00430497 /* ant.png */; settings = {ASSET_TAGS = (); }; };
+		036615991BD4A22E00430497 /* blueBullEye.png in Resources */ = {isa = PBXBuildFile; fileRef = 036615921BD4A22E00430497 /* blueBullEye.png */; settings = {ASSET_TAGS = (); }; };
+		0366159A1BD4A22E00430497 /* BullEye.png in Resources */ = {isa = PBXBuildFile; fileRef = 036615931BD4A22E00430497 /* BullEye.png */; settings = {ASSET_TAGS = (); }; };
+		0366159B1BD4A22E00430497 /* football.png in Resources */ = {isa = PBXBuildFile; fileRef = 036615941BD4A22E00430497 /* football.png */; settings = {ASSET_TAGS = (); }; };
+		0366159C1BD4A22E00430497 /* grass.png in Resources */ = {isa = PBXBuildFile; fileRef = 036615951BD4A22E00430497 /* grass.png */; settings = {ASSET_TAGS = (); }; };
+		0366159D1BD4A22E00430497 /* playboy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 036615961BD4A22E00430497 /* playboy.jpg */; settings = {ASSET_TAGS = (); }; };
+		0366159E1BD4A22E00430497 /* Target.png in Resources */ = {isa = PBXBuildFile; fileRef = 036615971BD4A22E00430497 /* Target.png */; settings = {ASSET_TAGS = (); }; };
+		036615A11BD4A60400430497 /* Pan.m in Sources */ = {isa = PBXBuildFile; fileRef = 036615A01BD4A60400430497 /* Pan.m */; settings = {ASSET_TAGS = (); }; };
+		036615A41BD4D88100430497 /* PinchScale.m in Sources */ = {isa = PBXBuildFile; fileRef = 036615A31BD4D88100430497 /* PinchScale.m */; settings = {ASSET_TAGS = (); }; };
+		036615AE1BD4F20900430497 /* UIImageView+Photo.m in Sources */ = {isa = PBXBuildFile; fileRef = 036615AD1BD4F20900430497 /* UIImageView+Photo.m */; settings = {ASSET_TAGS = (); }; };
+		036615B11BD4F72C00430497 /* PinchRotate.m in Sources */ = {isa = PBXBuildFile; fileRef = 036615B01BD4F72C00430497 /* PinchRotate.m */; settings = {ASSET_TAGS = (); }; };
 		03798E6D1BC36D3900D6F71C /* ScrollViewAnd.m in Sources */ = {isa = PBXBuildFile; fileRef = 03798E6C1BC36D3900D6F71C /* ScrollViewAnd.m */; };
+		037D8A621BC7BC3600F5E3F2 /* FistTable.m in Sources */ = {isa = PBXBuildFile; fileRef = 037D8A601BC7BC3600F5E3F2 /* FistTable.m */; };
+		037D8A651BC7BFB800F5E3F2 /* FistTable.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 037D8A641BC7BFB800F5E3F2 /* FistTable.storyboard */; };
+		038208111BE327CA003C3AE1 /* ImageRotate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0382080F1BE327CA003C3AE1 /* ImageRotate.m */; settings = {ASSET_TAGS = (); }; };
+		038208121BE327CA003C3AE1 /* ImageRotate.xib in Resources */ = {isa = PBXBuildFile; fileRef = 038208101BE327CA003C3AE1 /* ImageRotate.xib */; settings = {ASSET_TAGS = (); }; };
+		039209C51BD6209B003336B0 /* SimultanousRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 039209C41BD6209B003336B0 /* SimultanousRecognizer.m */; settings = {ASSET_TAGS = (); }; };
 		039DD46B1BBD168D004E3FCA /* FireBall.m in Sources */ = {isa = PBXBuildFile; fileRef = 039DD46A1BBD168D004E3FCA /* FireBall.m */; };
 		039DD46D1BBD2372004E3FCA /* firePoint.png in Resources */ = {isa = PBXBuildFile; fileRef = 039DD46C1BBD2372004E3FCA /* firePoint.png */; };
 		039DD46F1BBD2397004E3FCA /* staff.png in Resources */ = {isa = PBXBuildFile; fileRef = 039DD46E1BBD2397004E3FCA /* staff.png */; };
@@ -114,8 +167,69 @@
 		03106D0D1BB3E6BD0050EDEC /* Cloud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Cloud.m; path = GameCore/Cloud.m; sourceTree = "<group>"; };
 		03106D0F1BB3F0F70050EDEC /* Superricks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Superricks.h; path = GameCore/Superricks.h; sourceTree = "<group>"; };
 		03106D101BB3F0F70050EDEC /* Superricks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Superricks.m; path = GameCore/Superricks.m; sourceTree = "<group>"; };
+		0349467B1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-1.jpg"; sourceTree = "<group>"; };
+		0349467C1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-2.jpg"; sourceTree = "<group>"; };
+		0349467D1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-3.jpg"; sourceTree = "<group>"; };
+		0349467E1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-4.jpg"; sourceTree = "<group>"; };
+		0349467F1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-5.jpg"; sourceTree = "<group>"; };
+		034946801BE323CB0098C98A /* iphone-6-plus-16gb-360-org-6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-6.jpg"; sourceTree = "<group>"; };
+		034946811BE323CB0098C98A /* iphone-6-plus-16gb-360-org-7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-7.jpg"; sourceTree = "<group>"; };
+		034946821BE323CB0098C98A /* iphone-6-plus-16gb-360-org-8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-8.jpg"; sourceTree = "<group>"; };
+		034946831BE323CB0098C98A /* iphone-6-plus-16gb-360-org-9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-9.jpg"; sourceTree = "<group>"; };
+		034946841BE323CB0098C98A /* iphone-6-plus-16gb-360-org-10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-10.jpg"; sourceTree = "<group>"; };
+		034946851BE323CB0098C98A /* iphone-6-plus-16gb-360-org-11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-11.jpg"; sourceTree = "<group>"; };
+		034946861BE323CB0098C98A /* iphone-6-plus-16gb-360-org-12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-12.jpg"; sourceTree = "<group>"; };
+		034946871BE323CB0098C98A /* iphone-6-plus-16gb-360-org-13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-13.jpg"; sourceTree = "<group>"; };
+		034946881BE323CB0098C98A /* iphone-6-plus-16gb-360-org-14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-14.jpg"; sourceTree = "<group>"; };
+		034946891BE323CB0098C98A /* iphone-6-plus-16gb-360-org-15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-15.jpg"; sourceTree = "<group>"; };
+		0349468A1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-16.jpg"; sourceTree = "<group>"; };
+		0349468B1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-17.jpg"; sourceTree = "<group>"; };
+		0349468C1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-18.jpg"; sourceTree = "<group>"; };
+		0349468D1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-19.jpg"; sourceTree = "<group>"; };
+		0349468E1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-20.jpg"; sourceTree = "<group>"; };
+		0349468F1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-21.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-21.jpg"; sourceTree = "<group>"; };
+		034946901BE323CB0098C98A /* iphone-6-plus-16gb-360-org-22.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-22.jpg"; sourceTree = "<group>"; };
+		034946911BE323CB0098C98A /* iphone-6-plus-16gb-360-org-23.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-23.jpg"; sourceTree = "<group>"; };
+		034946921BE323CB0098C98A /* iphone-6-plus-16gb-360-org-24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-24.jpg"; sourceTree = "<group>"; };
+		034946931BE323CB0098C98A /* iphone-6-plus-16gb-360-org-25.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-25.jpg"; sourceTree = "<group>"; };
+		034946941BE323CB0098C98A /* iphone-6-plus-16gb-360-org-26.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-26.jpg"; sourceTree = "<group>"; };
+		034946951BE323CB0098C98A /* iphone-6-plus-16gb-360-org-27.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-27.jpg"; sourceTree = "<group>"; };
+		034946961BE323CB0098C98A /* iphone-6-plus-16gb-360-org-28.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-28.jpg"; sourceTree = "<group>"; };
+		034946971BE323CB0098C98A /* iphone-6-plus-16gb-360-org-29.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-29.jpg"; sourceTree = "<group>"; };
+		034946981BE323CB0098C98A /* iphone-6-plus-16gb-360-org-30.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-30.jpg"; sourceTree = "<group>"; };
+		034946991BE323CB0098C98A /* iphone-6-plus-16gb-360-org-31.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-31.jpg"; sourceTree = "<group>"; };
+		0349469A1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-32.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-32.jpg"; sourceTree = "<group>"; };
+		0349469B1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-33.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-33.jpg"; sourceTree = "<group>"; };
+		0349469C1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-34.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-34.jpg"; sourceTree = "<group>"; };
+		0349469D1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-35.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-35.jpg"; sourceTree = "<group>"; };
+		0349469E1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-36.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-plus-16gb-360-org-36.jpg"; sourceTree = "<group>"; };
+		0366158C1BD4A16900430497 /* Tap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Tap.h; path = MultiTap/Tap.h; sourceTree = "<group>"; };
+		0366158D1BD4A16900430497 /* Tap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Tap.m; path = MultiTap/Tap.m; sourceTree = "<group>"; };
+		036615911BD4A22E00430497 /* ant.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ant.png; sourceTree = "<group>"; };
+		036615921BD4A22E00430497 /* blueBullEye.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blueBullEye.png; sourceTree = "<group>"; };
+		036615931BD4A22E00430497 /* BullEye.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BullEye.png; sourceTree = "<group>"; };
+		036615941BD4A22E00430497 /* football.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = football.png; sourceTree = "<group>"; };
+		036615951BD4A22E00430497 /* grass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grass.png; sourceTree = "<group>"; };
+		036615961BD4A22E00430497 /* playboy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = playboy.jpg; sourceTree = "<group>"; };
+		036615971BD4A22E00430497 /* Target.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Target.png; sourceTree = "<group>"; };
+		0366159F1BD4A60400430497 /* Pan.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Pan.h; path = MultiTap/Pan.h; sourceTree = "<group>"; };
+		036615A01BD4A60400430497 /* Pan.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Pan.m; path = MultiTap/Pan.m; sourceTree = "<group>"; };
+		036615A21BD4D88100430497 /* PinchScale.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PinchScale.h; path = MultiTap/PinchScale.h; sourceTree = "<group>"; };
+		036615A31BD4D88100430497 /* PinchScale.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PinchScale.m; path = MultiTap/PinchScale.m; sourceTree = "<group>"; };
+		036615AC1BD4F20900430497 /* UIImageView+Photo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImageView+Photo.h"; path = "class/UIImageView+Photo.h"; sourceTree = "<group>"; };
+		036615AD1BD4F20900430497 /* UIImageView+Photo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+Photo.m"; path = "class/UIImageView+Photo.m"; sourceTree = "<group>"; };
+		036615AF1BD4F72C00430497 /* PinchRotate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PinchRotate.h; path = MultiTap/PinchRotate.h; sourceTree = "<group>"; };
+		036615B01BD4F72C00430497 /* PinchRotate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PinchRotate.m; path = MultiTap/PinchRotate.m; sourceTree = "<group>"; };
 		03798E6B1BC36D3900D6F71C /* ScrollViewAnd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScrollViewAnd.h; path = scrollview/ScrollViewAnd.h; sourceTree = "<group>"; };
 		03798E6C1BC36D3900D6F71C /* ScrollViewAnd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScrollViewAnd.m; path = scrollview/ScrollViewAnd.m; sourceTree = "<group>"; };
+		037D8A5F1BC7BC3600F5E3F2 /* FistTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FistTable.h; path = TableView/FistTable.h; sourceTree = "<group>"; };
+		037D8A601BC7BC3600F5E3F2 /* FistTable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FistTable.m; path = TableView/FistTable.m; sourceTree = "<group>"; };
+		037D8A641BC7BFB800F5E3F2 /* FistTable.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = FistTable.storyboard; path = TableView/FistTable.storyboard; sourceTree = "<group>"; };
+		0382080E1BE327CA003C3AE1 /* ImageRotate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ImageRotate.h; path = MultiTap/ImageRotate.h; sourceTree = "<group>"; };
+		0382080F1BE327CA003C3AE1 /* ImageRotate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ImageRotate.m; path = MultiTap/ImageRotate.m; sourceTree = "<group>"; };
+		038208101BE327CA003C3AE1 /* ImageRotate.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ImageRotate.xib; path = MultiTap/ImageRotate.xib; sourceTree = "<group>"; };
+		039209C31BD6209B003336B0 /* SimultanousRecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SimultanousRecognizer.h; path = MultiTap/SimultanousRecognizer.h; sourceTree = "<group>"; };
+		039209C41BD6209B003336B0 /* SimultanousRecognizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SimultanousRecognizer.m; path = MultiTap/SimultanousRecognizer.m; sourceTree = "<group>"; };
 		039DD4691BBD168D004E3FCA /* FireBall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FireBall.h; path = class/FireBall.h; sourceTree = "<group>"; };
 		039DD46A1BBD168D004E3FCA /* FireBall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FireBall.m; path = class/FireBall.m; sourceTree = "<group>"; };
 		039DD46C1BBD2372004E3FCA /* firePoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firePoint.png; sourceTree = "<group>"; };
@@ -156,6 +270,9 @@
 		03106C961BB395D10050EDEC = {
 			isa = PBXGroup;
 			children = (
+				036615A51BD4F0A100430497 /* Class */,
+				0366158B1BD4940000430497 /* MultiTab */,
+				037D8A5C1BC7B90B00F5E3F2 /* TableView */,
 				03106CDD1BB39CC50050EDEC /* Images */,
 				03106CD61BB397AB0050EDEC /* GameCore */,
 				03106CC91BB396640050EDEC /* Base */,
@@ -265,6 +382,14 @@
 		03106CDD1BB39CC50050EDEC /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				0349467A1BE323BF0098C98A /* iphone */,
+				036615911BD4A22E00430497 /* ant.png */,
+				036615921BD4A22E00430497 /* blueBullEye.png */,
+				036615931BD4A22E00430497 /* BullEye.png */,
+				036615941BD4A22E00430497 /* football.png */,
+				036615951BD4A22E00430497 /* grass.png */,
+				036615961BD4A22E00430497 /* playboy.jpg */,
+				036615971BD4A22E00430497 /* Target.png */,
 				03CEA1901BC3B66D0005CDC1 /* 1.jpg */,
 				03CEA1911BC3B66D0005CDC1 /* 2.jpg */,
 				03CEA1921BC3B66D0005CDC1 /* 3.jpg */,
@@ -295,6 +420,88 @@
 				03106CDE1BB39D070050EDEC /* soccer.png */,
 			);
 			name = Images;
+			sourceTree = "<group>";
+		};
+		0349467A1BE323BF0098C98A /* iphone */ = {
+			isa = PBXGroup;
+			children = (
+				0349467B1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-1.jpg */,
+				0349467C1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-2.jpg */,
+				0349467D1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-3.jpg */,
+				0349467E1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-4.jpg */,
+				0349467F1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-5.jpg */,
+				034946801BE323CB0098C98A /* iphone-6-plus-16gb-360-org-6.jpg */,
+				034946811BE323CB0098C98A /* iphone-6-plus-16gb-360-org-7.jpg */,
+				034946821BE323CB0098C98A /* iphone-6-plus-16gb-360-org-8.jpg */,
+				034946831BE323CB0098C98A /* iphone-6-plus-16gb-360-org-9.jpg */,
+				034946841BE323CB0098C98A /* iphone-6-plus-16gb-360-org-10.jpg */,
+				034946851BE323CB0098C98A /* iphone-6-plus-16gb-360-org-11.jpg */,
+				034946861BE323CB0098C98A /* iphone-6-plus-16gb-360-org-12.jpg */,
+				034946871BE323CB0098C98A /* iphone-6-plus-16gb-360-org-13.jpg */,
+				034946881BE323CB0098C98A /* iphone-6-plus-16gb-360-org-14.jpg */,
+				034946891BE323CB0098C98A /* iphone-6-plus-16gb-360-org-15.jpg */,
+				0349468A1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-16.jpg */,
+				0349468B1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-17.jpg */,
+				0349468C1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-18.jpg */,
+				0349468D1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-19.jpg */,
+				0349468E1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-20.jpg */,
+				0349468F1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-21.jpg */,
+				034946901BE323CB0098C98A /* iphone-6-plus-16gb-360-org-22.jpg */,
+				034946911BE323CB0098C98A /* iphone-6-plus-16gb-360-org-23.jpg */,
+				034946921BE323CB0098C98A /* iphone-6-plus-16gb-360-org-24.jpg */,
+				034946931BE323CB0098C98A /* iphone-6-plus-16gb-360-org-25.jpg */,
+				034946941BE323CB0098C98A /* iphone-6-plus-16gb-360-org-26.jpg */,
+				034946951BE323CB0098C98A /* iphone-6-plus-16gb-360-org-27.jpg */,
+				034946961BE323CB0098C98A /* iphone-6-plus-16gb-360-org-28.jpg */,
+				034946971BE323CB0098C98A /* iphone-6-plus-16gb-360-org-29.jpg */,
+				034946981BE323CB0098C98A /* iphone-6-plus-16gb-360-org-30.jpg */,
+				034946991BE323CB0098C98A /* iphone-6-plus-16gb-360-org-31.jpg */,
+				0349469A1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-32.jpg */,
+				0349469B1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-33.jpg */,
+				0349469C1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-34.jpg */,
+				0349469D1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-35.jpg */,
+				0349469E1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-36.jpg */,
+			);
+			name = iphone;
+			sourceTree = "<group>";
+		};
+		0366158B1BD4940000430497 /* MultiTab */ = {
+			isa = PBXGroup;
+			children = (
+				0366158C1BD4A16900430497 /* Tap.h */,
+				0366158D1BD4A16900430497 /* Tap.m */,
+				0366159F1BD4A60400430497 /* Pan.h */,
+				036615A01BD4A60400430497 /* Pan.m */,
+				036615A21BD4D88100430497 /* PinchScale.h */,
+				036615A31BD4D88100430497 /* PinchScale.m */,
+				036615AF1BD4F72C00430497 /* PinchRotate.h */,
+				036615B01BD4F72C00430497 /* PinchRotate.m */,
+				039209C31BD6209B003336B0 /* SimultanousRecognizer.h */,
+				039209C41BD6209B003336B0 /* SimultanousRecognizer.m */,
+				0382080E1BE327CA003C3AE1 /* ImageRotate.h */,
+				0382080F1BE327CA003C3AE1 /* ImageRotate.m */,
+				038208101BE327CA003C3AE1 /* ImageRotate.xib */,
+			);
+			name = MultiTab;
+			sourceTree = "<group>";
+		};
+		036615A51BD4F0A100430497 /* Class */ = {
+			isa = PBXGroup;
+			children = (
+				036615AC1BD4F20900430497 /* UIImageView+Photo.h */,
+				036615AD1BD4F20900430497 /* UIImageView+Photo.m */,
+			);
+			name = Class;
+			sourceTree = "<group>";
+		};
+		037D8A5C1BC7B90B00F5E3F2 /* TableView */ = {
+			isa = PBXGroup;
+			children = (
+				037D8A5F1BC7BC3600F5E3F2 /* FistTable.h */,
+				037D8A601BC7BC3600F5E3F2 /* FistTable.m */,
+				037D8A641BC7BFB800F5E3F2 /* FistTable.storyboard */,
+			);
+			name = TableView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -378,34 +585,79 @@
 			buildActionMask = 2147483647;
 			files = (
 				03106CF51BB3CEAB0050EDEC /* 8.png in Resources */,
+				0349469F1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-1.jpg in Resources */,
+				034946A01BE323CB0098C98A /* iphone-6-plus-16gb-360-org-2.jpg in Resources */,
+				034946B51BE323CB0098C98A /* iphone-6-plus-16gb-360-org-23.jpg in Resources */,
+				034946BA1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-28.jpg in Resources */,
+				034946AD1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-15.jpg in Resources */,
 				03106D081BB3CEC50050EDEC /* gameover.png in Resources */,
+				034946AB1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-13.jpg in Resources */,
+				0366159E1BD4A22E00430497 /* Target.png in Resources */,
+				034946A91BE323CB0098C98A /* iphone-6-plus-16gb-360-org-11.jpg in Resources */,
 				03106CFA1BB3CEB70050EDEC /* block.png in Resources */,
+				034946A41BE323CB0098C98A /* iphone-6-plus-16gb-360-org-6.jpg in Resources */,
+				034946B11BE323CB0098C98A /* iphone-6-plus-16gb-360-org-19.jpg in Resources */,
+				034946A81BE323CB0098C98A /* iphone-6-plus-16gb-360-org-10.jpg in Resources */,
+				034946B21BE323CB0098C98A /* iphone-6-plus-16gb-360-org-20.jpg in Resources */,
+				034946A51BE323CB0098C98A /* iphone-6-plus-16gb-360-org-7.jpg in Resources */,
 				03106D091BB3CEC50050EDEC /* marioKilled.png in Resources */,
+				0366159A1BD4A22E00430497 /* BullEye.png in Resources */,
+				034946A61BE323CB0098C98A /* iphone-6-plus-16gb-360-org-8.jpg in Resources */,
+				036615991BD4A22E00430497 /* blueBullEye.png in Resources */,
+				034946BB1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-29.jpg in Resources */,
 				03106CDF1BB39D070050EDEC /* soccer.png in Resources */,
+				034946A71BE323CB0098C98A /* iphone-6-plus-16gb-360-org-9.jpg in Resources */,
+				037D8A651BC7BFB800F5E3F2 /* FistTable.storyboard in Resources */,
 				03106CF91BB3CEB70050EDEC /* ball.png in Resources */,
 				03106CF11BB3CEAB0050EDEC /* 4.png in Resources */,
 				039DD46F1BBD2397004E3FCA /* staff.png in Resources */,
 				03CEA1991BC3B66D0005CDC1 /* 4.jpg in Resources */,
+				0366159C1BD4A22E00430497 /* grass.png in Resources */,
 				03106D071BB3CEC50050EDEC /* fireball.png in Resources */,
 				03CEA1981BC3B66D0005CDC1 /* 3.jpg in Resources */,
 				03106CEE1BB3CEAB0050EDEC /* 1.png in Resources */,
 				03106D041BB3CEC50050EDEC /* cloud2.png in Resources */,
 				03106CF31BB3CEAB0050EDEC /* 6.png in Resources */,
 				03106D061BB3CEC50050EDEC /* clown.png in Resources */,
+				034946BE1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-32.jpg in Resources */,
+				034946B31BE323CB0098C98A /* iphone-6-plus-16gb-360-org-21.jpg in Resources */,
+				034946B71BE323CB0098C98A /* iphone-6-plus-16gb-360-org-25.jpg in Resources */,
+				034946BD1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-31.jpg in Resources */,
+				034946B61BE323CB0098C98A /* iphone-6-plus-16gb-360-org-24.jpg in Resources */,
 				03106CEF1BB3CEAB0050EDEC /* 2.png in Resources */,
 				03CEA1961BC3B66D0005CDC1 /* 1.jpg in Resources */,
+				034946AC1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-14.jpg in Resources */,
 				03CEA1841BC3A8A30005CDC1 /* people.jpg in Resources */,
+				034946BF1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-33.jpg in Resources */,
 				039DD46D1BBD2372004E3FCA /* firePoint.png in Resources */,
 				03CEA19A1BC3B66D0005CDC1 /* 5.jpg in Resources */,
 				03106D051BB3CEC50050EDEC /* cloud3.png in Resources */,
+				034946B41BE323CB0098C98A /* iphone-6-plus-16gb-360-org-22.jpg in Resources */,
+				034946C01BE323CB0098C98A /* iphone-6-plus-16gb-360-org-34.jpg in Resources */,
+				034946AE1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-16.jpg in Resources */,
 				03106CF01BB3CEAB0050EDEC /* 3.png in Resources */,
+				034946AA1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-12.jpg in Resources */,
+				034946AF1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-17.jpg in Resources */,
+				0366159B1BD4A22E00430497 /* football.png in Resources */,
+				034946C11BE323CB0098C98A /* iphone-6-plus-16gb-360-org-35.jpg in Resources */,
+				038208121BE327CA003C3AE1 /* ImageRotate.xib in Resources */,
 				03106CF21BB3CEAB0050EDEC /* 5.png in Resources */,
 				03106CF41BB3CEAB0050EDEC /* 7.png in Resources */,
 				03CEA19B1BC3B66D0005CDC1 /* 6.jpg in Resources */,
+				034946C21BE323CB0098C98A /* iphone-6-plus-16gb-360-org-36.jpg in Resources */,
 				03106CB31BB395D10050EDEC /* LaunchScreen.xib in Resources */,
+				034946A21BE323CB0098C98A /* iphone-6-plus-16gb-360-org-4.jpg in Resources */,
+				034946B01BE323CB0098C98A /* iphone-6-plus-16gb-360-org-18.jpg in Resources */,
+				034946BC1BE323CB0098C98A /* iphone-6-plus-16gb-360-org-30.jpg in Resources */,
+				0366159D1BD4A22E00430497 /* playboy.jpg in Resources */,
+				034946A31BE323CB0098C98A /* iphone-6-plus-16gb-360-org-5.jpg in Resources */,
 				03CEA1971BC3B66D0005CDC1 /* 2.jpg in Resources */,
 				03106D031BB3CEC50050EDEC /* cloud1.png in Resources */,
+				036615981BD4A22E00430497 /* ant.png in Resources */,
+				034946B91BE323CB0098C98A /* iphone-6-plus-16gb-360-org-27.jpg in Resources */,
+				034946B81BE323CB0098C98A /* iphone-6-plus-16gb-360-org-26.jpg in Resources */,
 				03106CB01BB395D10050EDEC /* Images.xcassets in Resources */,
+				034946A11BE323CB0098C98A /* iphone-6-plus-16gb-360-org-3.jpg in Resources */,
 				03106D0B1BB3E2A80050EDEC /* city.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -424,6 +676,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				037D8A621BC7BC3600F5E3F2 /* FistTable.m in Sources */,
+				036615B11BD4F72C00430497 /* PinchRotate.m in Sources */,
 				039DD4721BBD289E004E3FCA /* FireCount.m in Sources */,
 				03106CD91BB397D20050EDEC /* Sence.m in Sources */,
 				03106CD31BB396A60050EDEC /* BootLogic.m in Sources */,
@@ -432,13 +686,19 @@
 				03798E6D1BC36D3900D6F71C /* ScrollViewAnd.m in Sources */,
 				03106CE21BB39D450050EDEC /* SenceAndSprite.m in Sources */,
 				03106CE51BB3CE7F0050EDEC /* CityAndCloud.m in Sources */,
+				038208111BE327CA003C3AE1 /* ImageRotate.m in Sources */,
+				0366158E1BD4A16900430497 /* Tap.m in Sources */,
 				03106CD41BB396A60050EDEC /* ConsoleScreen.m in Sources */,
+				036615AE1BD4F20900430497 /* UIImageView+Photo.m in Sources */,
 				03CEA1871BC3A8C00005CDC1 /* ScrContenSize.m in Sources */,
 				039DD46B1BBD168D004E3FCA /* FireBall.m in Sources */,
+				036615A41BD4D88100430497 /* PinchScale.m in Sources */,
 				03106CD21BB396A60050EDEC /* AppDelegate.m in Sources */,
 				03106D111BB3F0F70050EDEC /* Superricks.m in Sources */,
+				039209C51BD6209B003336B0 /* SimultanousRecognizer.m in Sources */,
 				03106CDC1BB398270050EDEC /* Sprite.m in Sources */,
 				03106CA51BB395D10050EDEC /* main.m in Sources */,
+				036615A11BD4A60400430497 /* Pan.m in Sources */,
 				03CEA19E1BC3B6970005CDC1 /* SimpleScrollView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -512,6 +772,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -549,6 +810,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -559,9 +821,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = GameEngine/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -569,9 +833,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = GameEngine/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};

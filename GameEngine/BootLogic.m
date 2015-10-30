@@ -25,9 +25,14 @@
                                      @{TITLE: @"ContentSize", CLASS: @"ScrContenSize"},
                                     @{TITLE: @"SimpleScrollView", CLASS: @"SimpleScrollView"},
                                   ]};
-    NSDictionary* advanced = @{SECTION: @"Advanced", MENU: @[
-                                    @{TITLE: @"Advanced C", CLASS: @"AdvancedC"}
-                             ]};
+    NSDictionary* advanced = @{SECTION: @"MultiTap", MENU: @[
+                                    @{TITLE: @"Tap", CLASS: @"Tap"},
+                                     @{TITLE: @"Pan", CLASS: @"Pan"},
+                                     @{TITLE: @"PinchScale", CLASS: @"PinchScale"},
+                                    @{TITLE: @"PinchRotate", CLASS: @"PinchRotate"},
+                                    @{TITLE: @"Simultanous Recognizer", CLASS: @"SimultanousRecognizer"},
+                                    @{TITLE: @"ImageRotate", CLASS: @"ImageRotate"},
+                                    ]};
     
     mainScreen.menu = @[basic, intermediate, advanced];
     mainScreen.title = @"Menu";
